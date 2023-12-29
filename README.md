@@ -119,9 +119,7 @@
 
 - Блок схема и пояснения: сервисы, назначения, методы API
 
-Архитектура приложения:
-
-![Untitled.drawio (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfe7190-09f8-47ec-87ad-876c9a4408b2/ee1be562-8d80-4a67-bed7-4b8c6e52351e/Untitled.drawio_(1).png)
+[Архитектура приложения](https://accurate-napkin-52f.notion.site/9cb5a85b67d648c483135a8eb991484a?pvs=4)
 
 ### 4.2. Описание инфраструктуры и масштабируемости
 
